@@ -1,0 +1,16 @@
+{
+  "name": "flightplan-sshconf",
+  "version": "0.0.1",
+  "description": "Leverage SSH config files in your flightplan",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/usstudentloancenter/flightplan-sshconfig",
+    "type": "git"
+  },
+  "author": "Zach Kanzler <zach@usstudentloancenter.org>",
+  "license": "MIT",
+  "dependencies": {
+    "sshconf": "^2.0.0",
+    "util-extend": "^1.0.3"
+  }
+}
