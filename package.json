@@ -1,6 +1,6 @@
 {
   "name": "flightplan-sshconf",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Leverage SSH config files in your flightplan",
   "main": "index.js",
   "repository": {
